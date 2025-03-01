@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color:goldenrod;
+}
+
+div{
+    text-align:center;
+    margin-top: 24px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+img{
+    border:10px solid goldenrod;
+}
+
+h1{
+    text-transform:uppercase; 
+    font-size:2.7rem;       
+}
