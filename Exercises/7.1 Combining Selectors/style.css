@@ -1,14 +1,14 @@
 /* Write your code here: */
 h1, h2{
-    color:blueviolet;
+    color: blueviolet;
 }
 
-.box > .done{
-    color:firebrick;
+.box > p{
+    color: firebrick;
 }
 
 .box li{
-    color:blue;
+    color: blue;
 }
 
 li.done{

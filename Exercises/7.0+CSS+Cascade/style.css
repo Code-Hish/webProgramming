@@ -11,12 +11,12 @@ p {
   padding: 0;
 }
 
-.inner-box{
-  background-color: red;
-}
-
 .white-text{
   color:white;
+}
+
+.inner-box{
+  background-color: red;
 }
 
 #outer-box{
